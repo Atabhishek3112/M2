@@ -179,7 +179,7 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
-```c
+```
 #include <stdio.h>
 
 int main() {
